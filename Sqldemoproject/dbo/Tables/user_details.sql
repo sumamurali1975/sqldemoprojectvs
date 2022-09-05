@@ -6,6 +6,7 @@
     [gender]     VARCHAR (10)  DEFAULT (NULL) NULL,
     [password]   VARCHAR (50)  DEFAULT (NULL) NULL,
     [status]     INT           DEFAULT (NULL) NULL,
+    [createddate] DATETIME NULL, 
     PRIMARY KEY CLUSTERED ([user_id] ASC)
 );
 
