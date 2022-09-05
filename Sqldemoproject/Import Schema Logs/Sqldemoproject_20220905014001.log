@@ -1,0 +1,10 @@
+05-09-2022 19:10:01	This log contains information about the import schema operation into project 'Sqldemoproject' on computer 'IBM-2X8Q5J3' by user '0038N9744'.
+05-09-2022 19:10:01	Deserializing model
+05-09-2022 19:10:01	Resolving model
+05-09-2022 19:10:01	Visiting imported model for types
+05-09-2022 19:10:02	Scanning project for duplicate elements
+05-09-2022 19:10:02	Finished duplicate element processing
+05-09-2022 19:10:02	Processing extra files
+05-09-2022 19:10:02	Finished importing Data-tier Application file.
+05-09-2022 19:10:02	A summary of the import was saved to the following location: C:\Users\0038N9744\source\repos\Sqldemoproject\Sqldemoproject\Import Schema Logs\Sqldemoproject_20220905014001.log
+05-09-2022 19:10:02	Click Finish to continue...
